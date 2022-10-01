@@ -1,0 +1,22 @@
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/bin/Release/ActionSequencerModule.dll
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/bin/Release/ActionSequencerModule.pdb
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/bin/Release/UnityEngine.dll
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/bin/Release/UnityEngine.pdb
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/bin/Release/UnityEngine.xml
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/obj/Release/ActionSequencerModule.csprojAssemblyReference.cache
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/obj/Release/ActionSequencerModule.csproj.CoreCompileInputs.cache
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/obj/Release/ActionSequencerModule.csproj.CopyComplete
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/obj/Release/ActionSequencerModule.dll
+/Users/p.kravtsov/RiderProjects/ActionSequencerModule/ActionSequencerModule/obj/Release/ActionSequencerModule.pdb
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/~/Plugins/ActionSequencerModule.dll
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/~/Plugins/ActionSequencerModule.pdb
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/~/Plugins/UnityEngine.dll
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/~/Plugins/UnityEngine.pdb
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/~/Plugins/UnityEngine.xml
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/obj/Release/ActionSequencerModule.csprojAssemblyReference.cache
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/obj/Release/ActionSequencerModule.csproj.CoreCompileInputs.cache
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/obj/Release/ActionSequencerModule.csproj.CopyComplete
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/obj/Release/ActionSequencerModule.dll
+/Users/p.kravtsov/Module Projects/actionsequencermodule/ActionSequencerModule/obj/Release/ActionSequencerModule.pdb
+/Users/p.kravtsov/Module Projects/actionsequencermodule/Plugins/ActionSequencerModule.dll
+/Users/p.kravtsov/Module Projects/actionsequencermodule/Plugins/ActionSequencerModule.pdb
